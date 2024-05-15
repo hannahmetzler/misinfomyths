@@ -1,0 +1,185 @@
+---
+format: 
+  revealjs:
+    footer: https://hannahmetzler.eu/misinfomyths
+    seal: false
+    transition: 'slide'
+    ## Defines the theme of the presentation, both version and style
+    theme: [default, custom.scss]
+    # incremental slides point by point
+    #incremental: true
+    aspect-ratio: 16:9
+    slide-number: true
+title-slide-attributes:
+    data-background-color: "#1f5c99"
+#     data-background-size: cover
+#     data-background-opacity: "0.5"
+
+#editor
+editor: source
+---
+
+## Emotions & misinformation spreading {.center}
+
+### What I was wrong about when I wrote our grant proposal
+
+<br>
+
+**Hannah Metzler** <br> 
+*Complexity Science Hub & Medical University of Vienna* <br>
+
+Vienna Behavioral Circle <br>
+May 16 2024 <br>
+
+:::: columns
+::: {.column width="25%"}
+![](logos/Complexity-Science-Hub-logo.png)
+:::
+::: {.column width="32%"}
+![](logos/uni_wien_logo_blue.jpg)
+:::
+
+::: {.column width="40%"}
+![](logos/wwtf.svg)
+:::
+::::
+
+
+
+## Myths 1: People are gullible
+
+
+
+:::: columns
+::: {.column width="70%"}
+- People are easy to manipulate
+
+
+### Solutions:
+- Facts!
+- Make them more skeptical
+
+
+### The science: 
+- It's hard to change people's mind.
+- People are too skeptical. 
+:::
+
+::: {.column width="30%"}
+![](images/pexels-alex-green-5699823.jpg){.absolute top=50 right=10 width=250}
+![](images/factchecking.svg){.absolute bottom=270 right=10 width=290}
+![](https://cdn.pixabay.com/photo/2021/12/01/19/53/business-6839039_1280.jpg){.absolute bottom=50 right=10 width=250}
+
+:::
+::::
+
+## Myths 2: Emotions = Irrationality
+
+:::: columns
+::: {.column width="60%"}
+- Emotions make people fall for misinformation
+
+### Solutions?
+- Make them less emotional
+- Focus on accuracy
+
+### The Science
+
+- Emotions can indicate recognition
+- Emotions are functional
+:::
+
+::: {.column width="40%"}
+![](images/curvi-linear_anger.svg)
+![](images/WordShiftGraph.png)
+:::
+::::
+
+::: footer
+Lühring\*, Shetty\*, Koschmieder, Waldherr, Garcia & Metzler ([2023](https://psyarxiv.com/udqms/))
+:::
+
+## Myth 3: Misinformation is prevalent
+
+### Solutions
+
+- Reduce misinformation
+- Make people skeptical
+
+### The science
+
+- Misinfo: 1-6%.
+- Most people don't read the news. 
+- Motivated minority: majority of engagement
+- Misinformation from the top
+
+## Myth 4: Misinformation influences behavior
+
+## Myth 5: Algorithms & echo chambers
+
+
+
+
+## Thank you! 
+
+![](images/emomis_team.svg)
+
+:::: columns
+::: {.column width="50%"}
+[Podcast](https://www.derstandard.at/story/3000000218043/wahrheit-gegen-luege-die-psychologie-hinter-fake-news)
+
+```{r, fig.align='center'}
+knitr::include_graphics("images/derstandard_podcast.png")
+```
+:::
+::: {.column width="50%"}
+[Kurzgesagt Video](https://youtu.be/fuFlMtZmvY0?si=lU02lQlj1J8OrSKG)
+
+```{r, out.width=340}
+knitr::include_graphics("images/in_a_nutshell.png")
+```
+:::
+::::
+
+
+
+::: notes
+
+### Misinformation myths
+
+-   People are gullible
+-   Emotions make people irrational
+-   People are exposed to a lot of misinformation
+-   Misinformation has strong effects on behavior
+-   Algorithms radicalize people
+-   Echo chambers cause the problem
+
+### Truth
+
+- It's hard to change people's minds
+- Emotions are functional
+- Misinformation (and news) exposure are low
+- Persuasion has very small effects
+- Algorithms are not an allround solution
+- Dissolving echo chambers causes polarization
+
+### Wrong solutions
+
+- reduce misinformation 
+- reduce emotions
+- make people more skeptical
+- reduce echo chambers
+
+### So what is the problem?
+
+-   Reducing misinformation will not make the real problems go away (vaccine hesitancy, ethnic tensions, sexism, racism, polarization)
+-   Misinformation as the scapegoat
+-   Alarmist narratives reduce trust in reliable news
+
+### Doing the hard work:
+
+-   Improve democratic & medical institutions
+-   Improve the media
+-   Address misinformation from the top
+
+:::
