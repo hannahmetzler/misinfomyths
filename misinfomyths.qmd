@@ -46,49 +46,16 @@ May 16 2024 <br>
 
 ::: notes
 - Emomis project, Jula, Apeksha
-- not focus on our science, but feature it too
-- focus on the most fascinating things I've learnt in this project
-- focus on things I've changed my mind about, a bit provocative, there's also things I think are a problem. 
-- many more myths I would have liked to bust, let's talk more if you are interested!
+- Experimental and provocative: mostly not our results, but 
+- the most fascinating things I've learnt in this project
+- things I've changed my mind about, show you how wrong young fields of science can be, how quickly they evolve
+- we've learnt a lot, very successful project! 
+- Slides and links clickable
 :::
 
 
-## Myth 1: People are gullible
 
-:::: columns
-::: {.column width="70%"}
-- People are easy to manipulate.
-
-
-### Solutions?
-- Facts!
-- Make them more skeptical
-
-::: fragment
-### The Science: 
-- It's hard to change people's mind.
-- People are too skeptical.
-- [Alarmist narrative](https://doi.org/10.1007/s11109-024-09911-3) has negative effects. 
-:::
-
-:::
-
-::: {.column width="30%"}
-![](images/pexels-alex-green-5699823.jpg){.absolute top=50 right=10 width=250}
-![](images/factchecking.svg){.absolute bottom=270 right=10 width=290}
-
-::: fragment
-![](https://cdn.pixabay.com/photo/2021/12/01/19/53/business-6839039_1280.jpg){.absolute bottom=50 right=10 width=250}
-:::
-
-:::
-::::
-
-::: footer
-Mercier, [2020](https://www.jstor.org/stable/j.ctvn1tbqq); Altay et al. [2023](https://doi.org/10.1177/20563051221150412); Coppock et al. [2020](https://www.science.org/doi/10.1126/sciadv.abc4046)
-:::
-
-## Myth 2: Emotions = Irrationality
+## Emotions = Irrationality & Manipulation
 
 :::: columns
 ::: {.column width="60%"}
@@ -120,7 +87,44 @@ Mercier, [2020](https://www.jstor.org/stable/j.ctvn1tbqq); Altay et al. [2023](h
 Lühring\*, Shetty\*, Koschmieder, Waldherr, Garcia & Metzler ([2023](https://psyarxiv.com/udqms/))
 :::
 
-## Myth 3: There's a lot of misinformation
+## People are gullible
+
+:::: columns
+::: {.column width="70%"}
+- People are easy to manipulate.
+
+
+### Solutions?
+
+- Facts! Education!
+- Make them more skeptical
+
+::: fragment
+### The Science: 
+- It's hard to change people's mind.
+- People are too skeptical.
+- [Alarmist narrative](https://doi.org/10.1007/s11109-024-09911-3) has negative effects. 
+:::
+
+:::
+
+::: {.column width="30%"}
+![](images/pexels-alex-green-5699823.jpg){.absolute top=50 right=10 width=250}
+![](images/factchecking.svg){.absolute bottom=270 right=10 width=290}
+
+::: fragment
+![](https://cdn.pixabay.com/photo/2021/12/01/19/53/business-6839039_1280.jpg){.absolute bottom=50 right=10 width=250}
+:::
+
+:::
+::::
+
+::: footer
+Mercier, [2020](https://www.jstor.org/stable/j.ctvn1tbqq); Altay et al. [2023](https://doi.org/10.1177/20563051221150412); Coppock et al. [2020](https://www.science.org/doi/10.1126/sciadv.abc4046)
+:::
+
+
+## There's a lot of misinformation
 
 :::: columns
 ::: {.column width="60%"}
@@ -155,7 +159,7 @@ Osmundsen et al., [2021](https://www.doi.org/10.1017/S0003055421000290);
 de Leon et al., [2024](https://doi.org/10.1080/10584609.2024.2325426)
 :::
 
-## Myth 4: Misinformation influences behavior
+## Misinformation influences behavior
 
 :::: columns
 ::: {.column width="80%"}
@@ -192,7 +196,7 @@ Spenkuch & Toniatti [2018](https://doi.org/10.1093/qje/qjy010);
 Altay et al. [2023](https://journals.sagepub.com/doi/full/10.1177/20563051221150412)
 :::
 
-## Myth 5: Algorithms & echo chambers!
+## It's social media's fault!
 
 :::: columns
 ::: {.column width="60%"}
@@ -232,8 +236,9 @@ Gentzkow & Shapiro, [2011](https://doi.org/10.1093/qje/qjr044)
 :::
 
 ::: notes
-- Algorithms are not an all round solution
-- Dissolving echo chambers causes polarization
+- I know this sounds like I don't think there's any problem, which is not true either. 
+- I just want to make the point that misinformation (manipulation) is overestimated, and that not everything is social media's fault. 
+- I'll leave you hanging in suspense about what I think the actual role of social media is, you'll have to check out our website, a podcast I did recently, or watch Doc dok 1 on ORF next Friday. 
 :::
 
 ## Thank you! {.smaller}
