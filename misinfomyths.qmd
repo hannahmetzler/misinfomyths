@@ -248,18 +248,25 @@ Gentzkow & Shapiro, [2011](https://doi.org/10.1093/qje/qjr044)
 More on our project: **<https://hannahmetzler.eu/emomis>**
 
 :::: columns
-::: {.column width="50%"}
+::: {.column width="33%"}
 [Podcast](https://www.derstandard.at/story/3000000218043/wahrheit-gegen-luege-die-psychologie-hinter-fake-news)
 
 ```{r, out.width=300}
 knitr::include_graphics("images/derstandard_podcast.png")
 ```
 :::
-::: {.column width="50%"}
+::: {.column width="33%"}
 [Kurzgesagt Video](https://youtu.be/fuFlMtZmvY0?si=lU02lQlj1J8OrSKG)
 
 ```{r, out.width=300}
 knitr::include_graphics("images/in_a_nutshell.png")
+```
+:::
+::: {.column width="33%"}
+[ORF Documentary May 29](https://tv.orf.at/dok-1/index.html)
+
+```{r, out.width=250}
+knitr::include_graphics("images/dok1_orf.png")
 ```
 :::
 ::::
