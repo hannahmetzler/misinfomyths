@@ -44,23 +44,28 @@ May 16 2024 <br>
 :::
 ::::
 
+::: notes
+- Emomis project, Jula, Apeksha
+- not focus on our science, but feature it too
+- focus on the most fascinating things I've learnt in this project
+- focus on things I've changed my mind about, a bit provocative, there's also things I think are a problem. 
+- many more myths I would have liked to bust, let's talk more if you are interested!
+:::
 
 
-## Myths 1: People are gullible
-
-
+## Myth 1: People are gullible
 
 :::: columns
 ::: {.column width="70%"}
 - People are easy to manipulate
 
 
-### Solutions:
+### Solutions?
 - Facts!
 - Make them more skeptical
 
 
-### The science: 
+### The Science: 
 - It's hard to change people's mind.
 - People are too skeptical. 
 :::
@@ -73,7 +78,11 @@ May 16 2024 <br>
 :::
 ::::
 
-## Myths 2: Emotions = Irrationality
+::: footer
+Mercier, [2020](https://www.jstor.org/stable/j.ctvn1tbqq); Altay et al. [2023](https://doi.org/10.1177/20563051221150412)
+:::
+
+## Myth 2: Emotions = Irrationality
 
 :::: columns
 ::: {.column width="60%"}
@@ -83,7 +92,7 @@ May 16 2024 <br>
 - Make them less emotional
 - Focus on accuracy
 
-### The Science
+### The Science:
 
 - Emotions can indicate recognition
 - Emotions are functional
@@ -99,26 +108,96 @@ May 16 2024 <br>
 Lühring\*, Shetty\*, Koschmieder, Waldherr, Garcia & Metzler ([2023](https://psyarxiv.com/udqms/))
 :::
 
-## Myth 3: Misinformation is prevalent
+## Myth 3: There's a lot of misinformation
 
-### Solutions
+:::: columns
+::: {.column width="60%"}
+### Solutions?
 
-- Reduce misinformation
-- Make people skeptical
+- Reduce it & warn people
 
-### The science
+### The Science:
 
-- Misinfo: 1-6%.
-- Most people don't read the news. 
-- Motivated minority: majority of engagement
-- Misinformation from the top
+- Only 1-6% of all news.
+- Most people don't read the news.
+
+::: fragment
+- Motivated minority shares majority of misinfo: [1%](https://www.doi.org/10.1017/S0003055421000290), [5%](https://www.sciencemag.org/lookup/doi/10.1126/science.aau2706), [2%](https://doi.org/10.1080/10584609.2024.2325426)
+- Misinformation from the [top](https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation)!
+:::
+:::
+
+::: {.column width="40%"}
+![](images/altay_2022_prevalence.svg)
+
+::: fragment
+![](https://peoplesdispatch.org/wp-content/uploads/2021/01/trump-capitol-2.jpg){width="300"}
+:::
+:::
+::::
+
+::: footer
+Altay et al. [2022](https://journalqd.org/article/view/3617); 
+Grinberg et  al., [2019](https://www.sciencemag.org/lookup/doi/10.1126/science.aau2706); 
+Osmundsen et al., [2021](https://www.doi.org/10.1017/S0003055421000290);
+de Leon et al., [2024](https://doi.org/10.1080/10584609.2024.2325426)
+:::
 
 ## Myth 4: Misinformation influences behavior
 
-## Myth 5: Algorithms & echo chambers
+:::: columns
+::: {.column width="60%"}
+- Strong effects on opinions and behavior.
+
+### Solutions?
+
+- Reduce it, facts, warnings...
+
+### The Science
+
+- Disinformation attacks: no effects on voting
+- Bail Russian bots study
+- Even the mass media have [small effects at best](https://www.nature.com/articles/s41467-022-35576-9)
+:::
+::: {.column width="40%"}
+picture
+:::
+::::
+
+## Myth 5: It's algorithms & echo chambers!
+
+:::: columns
+::: {.column width="60%"}
+- Algorithms radicalise people
+- Echo chambers cause polarization
+
+### Solutions?
+
+- [Reduce](https://www.pnas.org/content/115/37/9216) echo chambers
+- [Turn off](https://www.science.org/doi/full/10.1126/science.abp9364) the algorithms
+:::
+::: {.column width="40%"}
+picture
+:::
+::::
 
 
+### The Science: 
 
+- People [choose](https://www.nature.com/articles/s41586-023-06078-5) radical [content](https://www.pnas.org/doi/abs/10.1073/pnas.2101967118).
+- No algorithm effects on opinions & affective polarization.
+- Echo chambers are [larger offline](https://doi.org/10.1093/qje/qjr044), [reducing them backfires](https://www.pnas.org/content/115/37/9216).
+
+::: footer
+Robertson et al., [2023](https://www.nature.com/articles/s41586-023-06078-5); Hosseinmardi et al., [2024](https://www.pnas.org/doi/abs/10.1073/pnas.2313377121); Hosseinmardi et al., [2021](https://www.pnas.org/doi/abs/10.1073/pnas.2101967118); Munger & Philipps, [2022](https://doi.org/10.1177/1940161220964767); <br>
+Bail et al. [2018](https://www.pnas.org/content/115/37/9216);
+Gentzkow & Shapiro, [2011](https://doi.org/10.1093/qje/qjr044)
+:::
+
+::: notes
+- Algorithms are not an all round solution
+- Dissolving echo chambers causes polarization
+:::
 
 ## Thank you! 
 
@@ -160,7 +239,7 @@ knitr::include_graphics("images/in_a_nutshell.png")
 - Emotions are functional
 - Misinformation (and news) exposure are low
 - Persuasion has very small effects
-- Algorithms are not an allround solution
+- Algorithms are not an all round solution
 - Dissolving echo chambers causes polarization
 
 ### Wrong solutions
