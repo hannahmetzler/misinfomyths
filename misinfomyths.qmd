@@ -255,7 +255,7 @@ More on our project: **<https://hannahmetzler.eu/emomis>**
 ::: {.column width="33%"}
 [Podcast](https://www.derstandard.at/story/3000000218043/wahrheit-gegen-luege-die-psychologie-hinter-fake-news)
 
-```{r, out.width=300}
+```{r, out.width=350}
 knitr::include_graphics("images/derstandard_podcast.png")
 ```
 :::
@@ -269,7 +269,7 @@ knitr::include_graphics("images/in_a_nutshell.png")
 ::: {.column width="33%"}
 [ORF Documentary May 29](https://tv.orf.at/dok-1/index.html)
 
-```{r, out.width=250}
+```{r, out.width=220}
 knitr::include_graphics("images/dok1_orf.png")
 ```
 :::
