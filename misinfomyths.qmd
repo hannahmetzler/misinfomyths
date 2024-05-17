@@ -245,6 +245,21 @@ Gentzkow & Shapiro, [2011](https://doi.org/10.1093/qje/qjr044)
 - I'll leave you hanging in suspense about what I think the actual role of social media is, you'll have to check out our website, a podcast I did recently, or watch Doc dok 1 on ORF next Friday. 
 :::
 
+## So what? {visibility=hidden}
+
+-   Reducing misinformation will not make the real problems go away 
+    - images: vaccine hesitancy, ethnic tensions, sexism, racism, polarization
+- [Alarmist narrative](https://doi.org/10.1007/s11109-024-09911-3) reduces trust in reliable news
+-   Misinformation & social media companies as the scapegoat to avoid doing...
+
+### The hard work:
+
+- Trustworthy politics (corruption, transparency)
+- Improve democratic, medical & scientific institutions
+- Improve the media & increase trust
+- Address societal conflicts & inequality (climate change, poverty, gender, education...)
+
+
 ## Thank you! {.smaller}
 
 ![](images/emomis_team.svg)
@@ -304,16 +319,5 @@ knitr::include_graphics("images/dok1_orf.png")
 - make people more skeptical
 - reduce echo chambers
 
-### So what is the problem?
-
--   Reducing misinformation will not make the real problems go away (vaccine hesitancy, ethnic tensions, sexism, racism, polarization)
--   Misinformation as the scapegoat
--   Alarmist narratives reduce trust in reliable news
-
-### Doing the hard work:
-
--   Improve democratic & medical institutions
--   Improve the media
--   Address misinformation from the top
 
 :::
