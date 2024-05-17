@@ -19,7 +19,7 @@ title-slide-attributes:
 editor: source
 ---
 
-## Emotions & misinformation spreading {.center}
+## Five Myths about Misinformation {.center}
 
 ### What I was wrong about when I wrote our grant proposal
 
@@ -51,43 +51,14 @@ May 16 2024 <br>
 - things I've changed my mind about, show you how wrong young fields of science can be, how quickly they evolve
 - we've learnt a lot, very successful project! 
 - Slides and links clickable
+
+Duration: 8 minutes, without the slide on problems with these myths
 :::
 
 
 
-## Myth 1: Emotions = Irrationality
 
-:::: columns
-::: {.column width="60%"}
-- Emotions make people fall for misinformation
-
-### Solutions?
-- Make them less emotional
-- Focus on accuracy
-
-::: {.fragment fragment-index=2}
-### The Science:
-
-- Emotions can indicate recognition
-- Emotions are functional
-:::
-:::
-
-::: {.column width="40%"}
-
-::: {.fragment fragment-index=1}
-![](images/curvi-linear_anger.svg)
-![](images/WordShiftGraph.png)
-:::
-:::
-::::
-
-
-::: footer
-Lühring\*, Shetty\*, Koschmieder, Waldherr, Garcia & Metzler ([2023](https://psyarxiv.com/udqms/))
-:::
-
-## Myth 2: People are gullible
+## Myth 1: People are gullible
 
 :::: columns
 ::: {.column width="70%"}
@@ -121,6 +92,38 @@ Lühring\*, Shetty\*, Koschmieder, Waldherr, Garcia & Metzler ([2023](https://ps
 
 ::: footer
 Mercier, [2020](https://www.jstor.org/stable/j.ctvn1tbqq); Altay et al. [2023](https://doi.org/10.1177/20563051221150412); Coppock et al. [2020](https://www.science.org/doi/10.1126/sciadv.abc4046)
+:::
+
+## Myth 2: Emotions = Irrationality
+
+:::: columns
+::: {.column width="60%"}
+- Emotions make people fall for misinformation
+
+### Solutions?
+- Make them less emotional
+- Focus on accuracy
+
+::: {.fragment fragment-index=2}
+### The Science:
+
+- Emotions can indicate recognition
+- Emotions are functional
+:::
+:::
+
+::: {.column width="40%"}
+
+::: {.fragment fragment-index=1}
+![](images/curvi-linear_anger.svg)
+![](images/WordShiftGraph.png)
+:::
+:::
+::::
+
+
+::: footer
+Lühring\*, Shetty\*, Koschmieder, Waldherr, Garcia & Metzler ([2023](https://psyarxiv.com/udqms/))
 :::
 
 
@@ -182,11 +185,11 @@ de Leon et al., [2024](https://doi.org/10.1080/10584609.2024.2325426)
 :::
 :::
 ::: {.column width="19%"}
-![](https://cdn.pixabay.com/photo/2021/11/13/18/24/vaccination-6792039_1280.png){width="170"}
-![](https://cdn.pixabay.com/photo/2018/02/01/18/39/trump-3123765_1280.png){width="160"}
+![](https://cdn.pixabay.com/photo/2021/11/13/18/24/vaccination-6792039_1280.png){width="150"}
+![](https://cdn.pixabay.com/photo/2018/02/01/18/39/trump-3123765_1280.png){width="130"}
 
 ::: {.fragment fragment-index=1}
-![](https://cdn.pixabay.com/photo/2021/07/25/08/05/megaphone-6491194_1280.png){width="130"}
+![](https://cdn.pixabay.com/photo/2013/07/13/09/36/megaphone-155780_1280.png){width="140"}
 
 :::
 :::
@@ -245,19 +248,67 @@ Gentzkow & Shapiro, [2011](https://doi.org/10.1093/qje/qjr044)
 - I'll leave you hanging in suspense about what I think the actual role of social media is, you'll have to check out our website, a podcast I did recently, or watch Doc dok 1 on ORF next Friday. 
 :::
 
-## So what? {visibility=hidden}
+## So what?
 
--   Reducing misinformation will not make the real problems go away 
-    - images: vaccine hesitancy, ethnic tensions, sexism, racism, polarization
+- Reducing misinformation will not solve the real problems 
 - [Alarmist narrative](https://doi.org/10.1007/s11109-024-09911-3) reduces trust in reliable news
--   Misinformation & social media companies as the scapegoat to avoid doing...
+- Misinformation & social media companies are scapegoats to avoid doing **the hard work**
 
-### The hard work:
+:::: columns
+::: {.column width="22%"}
+![](https://cdn.pixabay.com/photo/2022/07/25/16/42/mask-7344171_1280.png)
+:::
+::: {.column width="25%"}
+![](https://cdn.pixabay.com/photo/2020/06/06/18/16/stop-5267682_960_720.png)
+:::
+::: {.column width="18%"}
+![](images/yin-yang-2024615.svg)
+:::
+::: {.column width="15%"}
+![](https://cdn.pixabay.com/photo/2016/03/31/18/14/female-1294230_1280.png)
+:::
 
-- Trustworthy politics (corruption, transparency)
+::: {.column width="18%"}
+![](https://cdn.pixabay.com/photo/2024/02/10/11/57/world-8564647_1280.png)
+:::
+::::
+
+::: footer
+Metzler & Garcia [2023](https://doi.org/10.1177/17456916231185057); Altay [2024](https://www.dw.com/en/disinformation-people-arent-as-gullible-as-we-think/a-67774216); Coppock et al. [2020](https://doi.org/10.1007/s11109-024-09911-3)
+:::
+
+::: notes
+images: vaccine hesitancy, ethnic tensions, sexism, racism, polarization
+:::
+
+## Doing the hard work
+
 - Improve democratic, medical & scientific institutions
-- Improve the media & increase trust
-- Address societal conflicts & inequality (climate change, poverty, gender, education...)
+- Trustworthy & transparent politics & media
+- Address societal inequalities and conflicts 
+   - Climate change, poverty, sexism, education, globalization, racism...
+
+
+
+:::: columns
+::: {.column width="18%"}
+![](https://cdn.pixabay.com/photo/2014/03/24/13/40/courthouse-293963_1280.png)
+:::
+::: {.column width="18%"}
+![](https://cdn.pixabay.com/photo/2013/07/13/09/36/megaphone-155780_1280.png)
+:::
+::: {.column width="25%"}
+![](https://cdn.pixabay.com/photo/2021/05/15/13/20/hunger-6255733_1280.png)
+:::
+::: {.column width="12%"}
+![](https://cdn.pixabay.com/photo/2017/01/31/00/03/currency-2022440_1280.png)
+:::
+::: {.column width="23%"}
+![](https://cdn.pixabay.com/photo/2016/10/08/04/25/laptop-1723059_1280.png)
+:::
+::::
+
+
 
 
 ## Thank you! {.smaller}
